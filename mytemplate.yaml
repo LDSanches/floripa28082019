@@ -55,7 +55,7 @@ objects:
       name: ${APPLICATION_NAME}
     name: ${APPLICATION_NAME}
   spec:
-    host: ${APPLICATION_NAME}.apps.floriapa-30a1.open.redhat.com
+    host: ${APPLICATION_NAME}.apps.seprol-087b.open.redhat.com
     port:
       targetPort: 8080
     to:
